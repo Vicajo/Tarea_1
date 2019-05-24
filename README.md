@@ -17,3 +17,7 @@ Utilizamos el DEM de la CAR de 10 m. de resolución, con el software ArcGis y la
 25-50%
 50-75%
 >75%
+
+
+
+https://github.com/Vicajo/Tarea_1/blob/master/DR-07%20MAPA%20DE%20PENDIENTES.pdf
