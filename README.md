@@ -25,3 +25,4 @@ mayor 75%
 
 Se clasifican los valores de altura del DEM en una rampa de colores donde se pueden diferenciar los cambios de elevación. La fuente utilizada es un MODELO DE ELEVACIÓN DIGITAL de 10 m. de resolución de la jurisdicción CAR Cundinamarca.
 
+[Mapa de Elevación](https://github.com/Vicajo/Tarea_1/blob/master/DR-08%20MODELO%20DIGITAL%20DE%20ELEVACI%C3%93N.pdf)
