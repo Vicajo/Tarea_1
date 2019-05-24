@@ -19,5 +19,4 @@ Utilizamos el DEM de la CAR de 10 m. de resolución, con el software ArcGis y la
 mayor 75%
 
 
-
-https://github.com/Vicajo/Tarea_1/blob/master/DR-07%20MAPA%20DE%20PENDIENTES.pdf
+[Mapa de Pendientes] (https://github.com/Vicajo/Tarea_1/blob/master/DR-07%20MAPA%20DE%20PENDIENTES.pdf)
