@@ -64,7 +64,7 @@ Para la generación del mapa de pendientes se siguieron los siguientes pasos:
 
 * Se comprueba que los valores del DEM correspondan  a la altitud (Cota).
 
-* Para crear la capa de pendientes se hace desde ArcToolbox > Spatial Analyst > Slope.
+* Para crear la capa de pendientes se hace desde ArcToolbox > Spatial Analyst > Surface > Slope, se define el extent con el polígono del municipio de Chocontá y se establece en porcentaje con el elemento de entrada el DEM anteriormente cargado en ArcMap.
 
 * Se reclasifica la capa resultante en ArcToolbox > Spatial Analyst Tools > Reclass > Reclassify en la clasificación se seleccionan 7 rangos en porcentaje: 0-3, 3-7, 7-12, 12-25, 25-50, 50-75 y más de 75.
 
