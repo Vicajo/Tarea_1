@@ -42,8 +42,10 @@ La pendiente es una de las características base del territorio para su análisi
 ## Descripción de los métodos de clasificación seleccionados. ¿Cuál es mejor para la variable seleccionada? ¿Por qué? 
 
 Inicialmente la clasificación se realizó por porcentajes teniendo en cuenta que es la más utilizada para expresar la variable de pendientes puesto que esta establecida su caracterización de acuerdo con los rangos utilizados de la siguiente manera: 
-Pendientes
 
+
+![Pendientes](https://user-images.githubusercontent.com/50974099/58396084-bd94fa00-8010-11e9-8831-c1debe59c231.png)
+Fuente: Jairo Alonso Figueredo Rodriguez - CLASIFICACION DE PENDIENTES Y SU CARACTERISTICAS
 ## Listado de fuentes de datos seleccionadas (proveedor, enlace para descarga, descripción, procesamiento realizado) 
 
 ## Descripción breve del procedimiento utilizado (pluggins, extensiones, procesos, transformaciones de datos, etc) 
