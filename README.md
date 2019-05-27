@@ -43,6 +43,7 @@ Teniendo en cuenta que el mapa temático realizado corresponde a un mapa de pend
 
 La pendiente es una de las características base del territorio para su análisis y toma de decisiones, pues  su repercusión en la planeación y el manejo del territorio es muy alta, teniendo influencia en factores como  con la infiltración, la escorrentía superficial, la humedad del suelo, la contribución del agua subterránea a la escorrentía, la estabilidad, entre muchos otros.
 
+
 ## Descripción de los métodos de clasificación seleccionados. ¿Cuál es mejor para la variable seleccionada? ¿Por qué? 
 
 Inicialmente la clasificación se realizó por porcentajes teniendo en cuenta que es la más utilizada para expresar la variable de pendientes puesto que esta establecida su caracterización de acuerdo con los rangos utilizados de la siguiente manera: 
