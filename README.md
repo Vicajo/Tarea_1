@@ -82,3 +82,14 @@ Para la generación del mapa de pendientes se siguieron los siguientes pasos:
 * Se genera el formato de salida gráfica con todos sus elementos: Leyenda, Convenciones, perímetro cartográfico, fuente básica cartográfica, localización general, título, escala y grilla.
 
 ## Ventajas / desventajas / dificultades / diferencias encontradas al utilizar QGIS y ArcGis para el desarrollo del ejercicio
+
+Se realizó la salida cartográfica mediante los software ArcGis y QGis, y se obtuvieron los siguientes resultados:
+
+* La simbología para representar el Norte, en ArcGis es muy amplia, mientras que en QGis esta limitada 
+* El manejo de la símbología es muy parecido entre los dos software, teniendo en cuenta que el flujo de trabajo es el mismo, así los menús sean algo diferentes.
+* La rampa de colores en QGis es más limitada con respecto a ArcGis, sin embargo, el primero presenta la opción de crear y editar la rampa de colores a gusto personal.
+* La visualización de las capas es más rápida en QGis.
+* Gracias al trabajo comunitario en QGis se puede mejorar la funcionalidad del mismo, como sucede con el uso de imágenes de referencia, que tiene muchas más opciones, con respecto a ArcGis, gracias al plugging Quick map services.
+* En general, se puede afirmar que las dos opciones de software (ArcGis, QGis), para generar salidas cartográficas son bastante buenas y el uso depende exclusivamente del gusto personal del Profesional encargado.
+
+
