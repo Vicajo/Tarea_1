@@ -57,6 +57,9 @@ Fuente: Jairo Alonso Figueredo Rodriguez - CLASIFICACION DE PENDIENTES Y SU CARA
 
 ## Listado de fuentes de datos seleccionadas (proveedor, enlace para descarga, descripción, procesamiento realizado) 
 
+* DEM (Modelo de elevación digital del terreno) resolución espacial 10 metros, entregado por la CAR Cundinamarca
+* Limite del municipio de Chocontá
+
 ## Descripción breve del procedimiento utilizado (pluggins, extensiones, procesos, transformaciones de datos, etc) 
 
 Para la generación del mapa de pendientes se siguieron los siguientes pasos:
