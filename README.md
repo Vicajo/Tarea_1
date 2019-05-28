@@ -30,6 +30,8 @@ Se clasifican los valores de altura del DEM en una rampa de colores donde se pue
 # Preguntas
 ## ¿Cuál es el problema a tratar? 
 
+Identificar la pendiente del terreno de la zona de estudio, teniendo en cuenta el cambio de la elevación en función de los ejes X, Y. A partir de la clasificación de pendientes dada por el IGAC
+
 ![maxresdefault](https://user-images.githubusercontent.com/50974099/58396594-f7670000-8012-11e9-9bbb-72bd5dc42b47.jpg)
 Fuente: MAGNUM T&C S.A.C. - Obtención de Pendientes y Calculo de Cotas
 
