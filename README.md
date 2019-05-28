@@ -92,4 +92,7 @@ Se realizó la salida cartográfica mediante los software ArcGis y QGis, y se ob
 * Gracias al trabajo comunitario en QGis se puede mejorar la funcionalidad del mismo, como sucede con el uso de imágenes de referencia, que tiene muchas más opciones, con respecto a ArcGis, gracias al plugging Quick map services.
 * En general, se puede afirmar que las dos opciones de software (ArcGis, QGis), para generar salidas cartográficas son bastante buenas y el uso depende exclusivamente del gusto personal del Profesional encargado.
 
+[Mapa de Pendientes QGIS](https://github.com/Vicajo/Tarea_1/blob/master/Mapa%20de%20Pendientes_QGIS.pdf)
+
+
 
