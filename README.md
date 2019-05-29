@@ -30,20 +30,20 @@ Se clasifican los valores de altura del DEM en una rampa de colores donde se pue
 # Preguntas
 ## ¿Cuál es el problema a tratar? 
 
-Identificar la pendiente del terreno de la zona de estudio, teniendo en cuenta el cambio de la elevación en función de los ejes X, Y. A partir de la clasificación de pendientes dada por el IGAC
+Identificar la pendiente del terreno de la zona de estudio, teniendo en cuenta el cambio de la elevación en función de los ejes X, Y. A partir de la clasificación de pendientes dada por el IGAC, con el fin de usar este como insumo para la modelacion de la amenaza por remocion en masa dode las pendientes son un factor a analizar.
 
 ![maxresdefault](https://user-images.githubusercontent.com/50974099/58396594-f7670000-8012-11e9-9bbb-72bd5dc42b47.jpg)
 Fuente: MAGNUM T&C S.A.C. - Obtención de Pendientes y Calculo de Cotas
 
 ## ¿Por qué un mapa ayuda a resolverlo?
 
-Partiendo del concepto de mapa como una representación gráfica del territorio, en este caso es una herramienta que registra una de sus características físicas como lo es la pendiente del territorio correspondiente al municipio de Chocontá, siendo esta una variable de tipo continuo que tiene un componente espacial la representación gráfica es óptima para su registro y posterior uso, de manera que permita una caracterización del territorio con mejor precisión y una cobertura completa del espacio objetivo. 
+Partiendo del concepto de mapa como una representación gráfica del territorio, en este caso es una herramienta que registra una de sus características físicas como lo es la pendiente del territorio correspondiente al municipio de Chocontá, siendo esta una variable de tipo continuo que tiene un componente espacial la representación gráfica es óptima para su registro y posterior uso, de manera que permita una caracterización del territorio con mejor precisión y una cobertura completa del espacio objetivo. Tambien nos permite utilizarlo en la elavoracion de estudios de amenaza ya que las pendientes son un factor clave a la hora de modelar las amenazas.
 
 ## Descripción del mapa temático (Variable seleccionada, utilidad) 
 
 Teniendo en cuenta que el mapa temático realizado corresponde a un mapa de pendientes, el cual tiene como objetivo principal mostrar el grado de inclinación del terreno de manera que a mayor valor, mayor es el grado de inclinación y puede ser expresada en términos de porcentaje.
 
-La pendiente es una de las características base del territorio para su análisis y toma de decisiones, pues  su repercusión en la planeación y el manejo del territorio es muy alta, teniendo influencia en factores como  con la infiltración, la escorrentía superficial, la humedad del suelo, la contribución del agua subterránea a la escorrentía, la estabilidad, entre muchos otros.
+La pendiente es una de las características base del territorio para su análisis y toma de decisiones, pues  su repercusión en la planeación y el manejo del territorio es muy alta, teniendo influencia en factores como  con la infiltración, la escorrentía superficial, la humedad del suelo, la contribución del agua subterránea a la escorrentía, la estabilidad, áreas de amenaza, entre muchos otros.
 
 
 ## Descripción de los métodos de clasificación seleccionados. ¿Cuál es mejor para la variable seleccionada? ¿Por qué? 
